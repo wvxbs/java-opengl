@@ -23,7 +23,7 @@ public class KeyBoard implements KeyListener{
 
         if(e.getKeyCode() == KeyEvent.VK_UP) {
             System.out.println("Pressionou tecla up");
-            cena.reshape(cena.Resize());
+//            cena.reshape(cena.Resize());
         }
     }
 
